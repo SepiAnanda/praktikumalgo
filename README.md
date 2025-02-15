@@ -1,1 +1,2 @@
 # praktikumalgo
+buat praktikum
